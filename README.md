@@ -21,7 +21,7 @@ Below is a flow chart of forward and backward propagation for a single node. (To
 ## Common Pitfalls
 The chain rule of calculus may appear clean and straightforward compared to traditional statistical models, but there are many pitfalls when implementing it.
 
-[Common pitfalls](pitfalls.md)
+[Common pitfalls](docs/pitfalls.md)
 
 ## References
 1. [micrograd by Andrej Karpathy](https://github.com/karpathy/micrograd)
