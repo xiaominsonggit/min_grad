@@ -12,7 +12,7 @@ In vector or matrix notation, the back-propagation algorithm consists of perform
 
 The Jacobian represents the "local" partial derivatives, in contrast to the gradients with respect to all weights, which propagate backwards.
 
-## Flow Chart of Forward and Backward Propagation
+## Flow Chart of Forward and Backward Propagations
 
 Below is a flow chart of forward and backward propagation for a single node. (Top) The data flows from left to right during forward propagation, and then the gradients flow from right to left during back-propagation. Notice the gradients accumulate from other operations in the same layer (depicted with dotted lines below).
 
